@@ -8,13 +8,7 @@
     android:orientation="vertical"
     tools:context="co.edu.udea.maps.OptionsActivity" >
 
-    <Button
-        android:id="@+id/locale"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:alpha="1"
-        android:text="@string/locale" />
-
+  
     <Button
         android:id="@+id/places"
         android:layout_width="fill_parent"

@@ -1463,7 +1463,7 @@ containing a value of this type.
         public static final int powered_by_google_light=0x7f020078;
     }
     public static final class id {
-        public static final int FrameLayout1=0x7f050057;
+        public static final int FrameLayout1=0x7f050056;
         public static final int LinearLayout1=0x7f05004e;
         public static final int action_bar=0x7f05002e;
         public static final int action_bar_activity_content=0x7f050015;
@@ -1510,7 +1510,6 @@ containing a value of this type.
         public static final int image=0x7f050039;
         public static final int listMode=0x7f050001;
         public static final int list_item=0x7f05003b;
-        public static final int locale=0x7f050055;
         public static final int map=0x7f05004f;
         public static final int mapClass=0x7f050050;
         public static final int match_parent=0x7f050024;
@@ -1519,7 +1518,8 @@ containing a value of this type.
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
         public static final int normal=0x7f050000;
-        public static final int places=0x7f050056;
+        public static final int places=0x7f050055;
+        public static final int placesList=0x7f050057;
         public static final int production=0x7f05001f;
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
@@ -1761,17 +1761,16 @@ containing a value of this type.
         public static final int create_calendar_title=0x7f0a0011;
         public static final int decline=0x7f0a0010;
         public static final int hello_world=0x7f0a0031;
-        public static final int hybridType=0x7f0a0038;
-        public static final int locale=0x7f0a0034;
-        public static final int map=0x7f0a0036;
-        public static final int normalType=0x7f0a0037;
-        public static final int places=0x7f0a0035;
-        public static final int satelliteType=0x7f0a0039;
+        public static final int hybridType=0x7f0a0037;
+        public static final int map=0x7f0a0035;
+        public static final int normalType=0x7f0a0036;
+        public static final int places=0x7f0a0034;
+        public static final int satelliteType=0x7f0a0038;
         public static final int store_picture_message=0x7f0a000e;
         public static final int store_picture_title=0x7f0a000d;
-        public static final int terrainType=0x7f0a003a;
+        public static final int terrainType=0x7f0a0039;
         public static final int title_activity_options=0x7f0a0033;
-        public static final int title_activity_places=0x7f0a003b;
+        public static final int title_activity_places=0x7f0a003a;
         /**  Text on a placeholder buy button when Google Play services is not
          available or up-to-date 
          */

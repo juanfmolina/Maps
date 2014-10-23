@@ -5,12 +5,11 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_options">OptionsActivity</string>
-    <string name="locale">Localizar</string>
     <string name="places">Lugares</string>
     <string name="map">Ir a Mapa</string>
     <string name="normalType">Normal</string>
     <string name="hybridType">Hibrido</string>
-    <string name="satelliteType">Satelite</string>
+    <string name="satelliteType">Satélite</string>
     <string name="terrainType">Tierra</string>
     <string name="title_activity_places">PlacesActivity</string>
 
