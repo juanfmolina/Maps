@@ -14,6 +14,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:alpha="1"
+        android:onClick="showPlaces"
         android:text="@string/places" />
 
     <Button

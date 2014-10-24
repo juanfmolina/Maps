@@ -9,6 +9,6 @@ package co.edu.udea.maps;
 
 public final class Manifest {
     public static final class permission {
-        public static final String MAPS_RECEIVE="co.edi.udea.maps.permission.MAPS_RECEIVE";
+        public static final String MAPS_RECEIVE="co.edu.udea.maps.permission.MAPS_RECEIVE";
     }
 }

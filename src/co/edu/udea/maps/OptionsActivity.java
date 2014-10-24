@@ -19,6 +19,10 @@ public class OptionsActivity extends Activity{
 		Intent mapIntent = new Intent(this, MapsActivity.class);
 		startActivity(mapIntent);
 	}
+	public void showPlaces(View view){
+		Intent placesIntent = new Intent(this, PlacesActivity.class);
+		startActivity(placesIntent);
+	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
